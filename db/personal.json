@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Breaking the Loop: A Journey of Programming and Personal Growth",
+      "category": "Programming",
+      "info": "The journey isn't about coding specifically; it's about tackling laziness and enhancing ourselves. I struggled with short attention spans, low confidence, etc... due to content overload. And one day my friend said, we're stuck in a loop of consuming without creating, putting us at a disadvantage...",
+      "image": "https://om29001.github.io/DB/images/inspirationBlogHero.jpg",
+      "author": "Om Surti",
+      "conclusion": "My journey into programming has been a transformative experience, driven by the desire to break free from the cycle of consumption and embrace the power of creation. Through challenges, personal projects, and the guidance of insightful friends, I've discovered that true growth lies in actively participating in my own life.",
+      "references": [
+        "Reference 1",
+        "Reference 2"
+      ],
+      "content": [
+        {
+          "type": "text",
+          "data": "In today's world, we're bombarded with so much information that it's easy to get stuck in a rut of just absorbing things without doing much ourselves. This was me, struggling with a short attention span and feeling lazy because I was always consuming but not creating anything meaningful."
+        },
+        {
+          "type": "text",
+          "data": "Then, a friend pointed out something important: by only consuming and not creating, we're missing out and putting ourselves at a disadvantage. That hit me hard. It made me realize that I needed to break free from this cycle and start actively participating in my own life."
+        },
+        {
+          "type": "text",
+          "data": "It wasn't just about learning to write code; it was about taking control and doing something productive with my time. Programming let me build things, solve problems, and express myself in a whole new way."
+        },
+        {
+          "type": "text",
+          "data": "The decision to embrace challenges and personal projects stemmed from the realization that true growth lies in the act of creation. Inspired by my friend's words, I began to seek out opportunities to apply my programming skills in meaningful ways, transcending mere consumption and stepping into the realm of active participation."
+        },
+        {
+          "type": "text",
+          "data": "This website stands as a testament to my journey of self-discovery and growth, sparked by the insightful words of a friend. It's a platform where I channel my creativity and problem-solving skills, thanks to the inspiration I received. By creating, maintaining, and updating this site, I actively engage in the challenge of participating in my own life, moving beyond passive consumption."
+        },
+        {
+          "type": "ulList",
+          "data": [
+            "I've learned the importance of active participation over passive consumption.",
+            "Programming has empowered me to build, solve, and express myself.",
+            "Challenges and personal projects have fueled my growth and self-discovery."
+          ]
+        }
+      ]
+    }
+  ]
+}
